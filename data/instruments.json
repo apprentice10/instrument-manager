@@ -1,0 +1,5 @@
+[
+    { "TAG": "VALVE-101", "Type": "Control Valve" },
+    { "TAG": "TT-202", "Type": "Temperature Transmitter" },
+    { "TAG": "PG-303", "Type": "Pressure Gauge" }
+]
